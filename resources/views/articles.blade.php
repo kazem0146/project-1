@@ -4,7 +4,7 @@
     <div class="dorehh">
         <h2>{{$article->title}}</h2>
 <p>category</p>
-            <p>{{$article->body}}</p>
+            <p style="margin:5px">{{$article->body}}</p>
         <div class="clear"></div>
     </div>
 </div>
