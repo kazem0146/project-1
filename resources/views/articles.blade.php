@@ -4,7 +4,9 @@
     <div class="dorehh">
         <h2>{{$article->title}}</h2>
 <p>category</p>
-      <p>{{$article->body}}</p>
+        <div>
+            <p>{{$article->body}}</p>
+        </div>
         <div class="clear"></div>
     </div>
 </div>
